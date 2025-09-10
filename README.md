@@ -1,6 +1,6 @@
 # Vehicle Inventory Management System
 
-A simple command-line **Vehicle Inventory Management System** written in Python, allowing users to manage cars, trucks, and SUVs. This project demonstrates object-oriented programming concepts, data persistence using `pickle`, and basic CRUD operations (Create, Read, Update, Delete) for vehicles.
+A simple command-line **Vehicle Inventory Management System** written in Python, allowing users to manage cars, trucks, and SUVs. This project demonstrates object-oriented programming concepts, data persistence using `pickle`, and basic CRUD operations (Create, Read, Update, Delete) for vehicles. This project was completed in CSC500 - Fundamentals of Programming at the University of Southern Mississippi.
 
 ---
 
